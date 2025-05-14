@@ -1,0 +1,18 @@
+{
+    "homePageTitle": "Find jobs",
+    "jobDescription": "DESCRIPTION",
+    "registrationHeader": "Create an Amazon.jobs account",
+    "loggedInHeader": "My Amazon.jobs account",
+    "loginHeader": "Log in using your Amazon.jobs account",
+    "otpConfirmationHeader": "Enter verification code",
+    "otpEmailVerificationHeader": "Verify your email address",
+    "applyBtn": "Apply now",
+    "loginTitle": "Use your Amazon.com or Google account",
+    "verifyingSpinner": "Verifying account...",
+    "loginErrorMessage": "We have encountered an error and could not complete your request. Please try again later.",
+    "wrongCredentialsErrorMessage": "This username/password doesn't match our records",
+    "existedEmailErrorMessage": "An account with that email address already exists. Try another email address or log in now.",
+    "applyFormTitle": "Apply",
+    "reviewFormTitle": "Review application and forms",
+    "submitBtnText": "Submit application"
+}
