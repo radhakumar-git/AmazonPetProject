@@ -18,8 +18,8 @@ function authorize(credentials, callback) {
 
 function getNewToken(oAuth2Client) {
   const authUrl = oAuth2Client.generateAuthUrl({
-    access_type: 'offline', // ✅ required to get refresh_token
-    prompt: 'consent',       // ✅ force refresh_token even if already granted
+    access_type: 'offline', // 
+    prompt: 'consent',       
     scope: ['https://www.googleapis.com/auth/gmail.modify'],
   });
 
